@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 26 09:56:59 2023
 
-@author: Dário
-"""
 
 import shutil
 import os
